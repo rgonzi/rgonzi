@@ -5,14 +5,10 @@ With a background in chemistry, I'm now venturing into software development, exc
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 </p>
 
-<p align="center">
-  🔬 Chemist turned Developer | 💻 Android Enthusiast  
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -21,7 +17,6 @@ With a background in chemistry, I'm now venturing into software development, exc
 🔹 **Future Goals**: Kotlin Multiplatform.  
 🔹 **Work Style**: Detail-oriented and passionate about well-crafted solutions.  
 
----
 
 ## 🛠️ Skills
 
@@ -38,15 +33,12 @@ With a background in chemistry, I'm now venturing into software development, exc
 </p>
 
 
----
-
 ## 📌 Projects  
 
 🔹 Developed an application for calculating volumes inside chemical reactors based on liquid height measurements, with Firebase integration for Authentication and Crashlytics. (Private due to company data restrictions).*
 
 🔹 Always working on new Android projects—stay tuned! 🚀  
 
----
 
 ## 📫 Connect with Me  
 
@@ -59,7 +51,6 @@ With a background in chemistry, I'm now venturing into software development, exc
   </a>
 </p>
 
----
 
 ## 🎯 Other Facts  
 
@@ -67,6 +58,7 @@ With a background in chemistry, I'm now venturing into software development, exc
 ✈️ I love traveling around the world, discovering new places and cultures.  
 🛠️ Perfectionist—always striving for clean and efficient code.  
 🔥 Passionate about Android development.  
+
 
 ---
 
