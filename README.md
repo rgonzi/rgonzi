@@ -12,10 +12,10 @@ With a background in chemistry, I'm now venturing into software development, exc
 
 ## 🚀 About Me
 
-🔹 **Background**: Always fascinated by technology, I recently discovered my passion for software development.  
-🔹 **Currently Learning**: Kotlin, Jetpack Compose, Firebase, Room, Retrofit, Hilt, Koin and more!  
-🔹 **Future Goals**: Testing, Kotlin Multiplatform
-🔹 **Work Style**: Detail-oriented and passionate about well-crafted solutions.  
+- **Background**: Always fascinated by technology, I recently discovered my passion for software development.  
+- **Currently Learning**: Kotlin, Jetpack Compose, Firebase, Room, Retrofit, Hilt, Koin and more!  
+- **Future Goals**: Testing, Kotlin Multiplatform
+- **Work Style**: Detail-oriented and passionate about well-crafted solutions.  
 
 
 ## 🛠️ Skills
@@ -35,11 +35,11 @@ With a background in chemistry, I'm now venturing into software development, exc
 
 ## 📌 Projects  
 
-🔹 Developed an application for calculating volumes inside chemical reactors based on liquid height measurements, with Firebase integration for Authentication and Crashlytics. (Private due to company data restrictions).*
-🔹 Application that fetches and display users and their posts from JSONPlaceholder API with Retrofit.
-🔹 Developed a basic app that uses CameraX for capturing photos and videos and ExoPlayer for playing the captured videos.
-🔹 A basic text editor in Java.
-🔹 Always working on new Android projects—stay tuned! 🚀  
+- Developed an application for calculating volumes inside chemical reactors based on liquid height measurements, with Firebase integration for Authentication and Crashlytics. (Private due to company data restrictions).*
+- Application that fetches and display users and their posts from JSONPlaceholder API with Retrofit.
+- Developed a basic app that uses CameraX for capturing photos and videos and ExoPlayer for playing the captured videos.
+- A basic text editor in Java.
+- Always working on new Android projects—stay tuned! 🚀  
 
 
 ## 📫 Connect with Me  
