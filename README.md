@@ -14,7 +14,7 @@ With a background in chemistry, I'm now venturing into software development, exc
 
 - **Background**: Always fascinated by technology, I recently discovered my passion for software development.  
 - **Currently Learning**: Kotlin, Jetpack Compose, Firebase, Room, Retrofit, Hilt, Koin and more!  
-- **Future Goals**: Testing, Kotlin Multiplatform
+- **Future Goals**: Spring Framework, Testing, Kotlin Multiplatform
 - **Work Style**: Detail-oriented and passionate about well-crafted solutions.  
 
 
